@@ -4,6 +4,7 @@
 - Vs code: https://code.visualstudio.com/download
 - Git: https://git-scm.com/
 - MLOps: https://www.evidentlyai.com/
+- Dataset: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
 ## Requirements Setup
 
