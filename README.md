@@ -6,6 +6,14 @@
 - MLOps: https://www.evidentlyai.com/
 - Dataset: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
 
+## Workflow
+
+1. constants
+2. entity
+3. components
+4. pipeline
+5. Main file
+
 ## Requirements Setup
 
 ```bash
